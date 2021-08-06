@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @isaacbarker
 - 👀 I’m interested in machine learning and algrothims!
-- 🌱 I’m currently learning java, javascipt!
+- 🌱 I’m currently learning java and C
 
-<!---
-isaacbarker/isaacbarker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently working to complete Harvad University's CS50 course! (https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
+
