@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @isaacbarker
-- I have learnt:
+- I am learning:
   - JS
   - C
   - Python
-- Libraries I have learnt:
+- Libraries I am learning:
   - React
   - Flask
