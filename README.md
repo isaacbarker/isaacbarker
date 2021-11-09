@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @isaacbarker
 - I am learning:
   - JS
-  - C
+  - Java
   - Python
-- Libraries I am learning:
-  - React
-  - Flask
+- I am learning:
+  - Django
+  - Discrete mathematics in CS
