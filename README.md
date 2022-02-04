@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @isaacbarker
 - I am learning:
   - JS
+    - React.js
+    - Node.js
   - Java
+    - Basic syntax
   - Python
-- I am learning:
-  - Django
-  - Discrete mathematics in CS
+- I am currently working on:
+  - MathsPlayGround a React webpage filled with many small applets and functions!
