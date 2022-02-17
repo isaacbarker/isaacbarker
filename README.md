@@ -7,4 +7,4 @@
     - Basic syntax
   - Python
 - I am currently working on:
-  - MathsPlayGround a React webpage filled with many small applets and functions!
+  - Minecraft.py, A discord bot used to find information about Minecraft Servers and Users!
