@@ -8,7 +8,7 @@ I am also an air traffic controller on the IVAO network! <br/><br/>
 ### Languages I am learning/know: 
 - Javascript
 - HTML, CSS
-- Python
+- Python (including Qiskit and IBM Quantum lab).
 - Java
 - C++
 
